@@ -1,4 +1,4 @@
-# my-portfolio-v4
+# my-portfolio
 
 ## Description
 This is a working project.  I am learning front-end web development and am in the process of coding my own design portfolio.
